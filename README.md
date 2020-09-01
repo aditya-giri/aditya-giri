@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently working on picking up quantum computing (and a little bit of cryptography).
+💻 Software Engineer at Citrix R&D  
+
+💡 I'm currently exploring the fascinating field of Quantum Computing, and I'm a [Qiskit Advocate](https://qiskit.org/advocates/). You can find me on the Qiskit Slack Workspace at `@AG`.  
