@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 Software Engineer at Citrix R&D (Bangalore, India), in the product dvelopment team for Citrix Workspace App for Windows.
+💻 Software Engineer at Citrix R&D (Bangalore, India), on the product development team for Citrix Workspace App for Windows.
 
-💡 Also currently exploring the fascinating field of Quantum Computing, and I'm a [Qiskit Advocate](https://qiskit.org/advocates/). You can find me on the Qiskit Slack Workspace at `@AG`.  
+💡 Also exploring the fascinating field of Quantum Computing, and I'm a [Qiskit Advocate](https://qiskit.org/advocates/). You can find me on the Qiskit Slack Workspace at `@AG`.  
