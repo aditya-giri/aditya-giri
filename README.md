@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 Software Engineer at Citrix R&D (Bangalore, India), on the product development team for Citrix Workspace App for Windows.
+💻 Lead SOftware Developer at a Stealth Mode startup 🤫
 
 💡 Quantum Computing ➡ I'm a [Qiskit Advocate](https://qiskit.org/advocates/). You can find me on the Qiskit Slack Workspace at `@Giri`. 
 
