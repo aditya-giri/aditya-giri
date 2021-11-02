@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 Lead Software Developer at a Stealth Mode startup 🤫
+💻 Lead Software Developer at a Stealth Startup 🤫
 
 💡 Quantum Computing ➡ I'm a [Qiskit Advocate](https://qiskit.org/advocates/). You can find me on the Qiskit Slack Workspace at `@Giri`. 
 
