@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-📕 Grad student in Computer Science at the University of California, San Diego
+🎯 Backend Engineer @ [Abnormal Security](https://abnormalsecurity.com/)!
 
-💻 Previously - Founding Engineer / Lead Developer at a Stealth Startup | Software Engineer at Citrix
+⏪ Previously - MS CS @ UCSD | Founding Engineer @ myTiro | Software Engineer @ Citrix
 
 💡 Quantum Computing ➡ I'm a [Qiskit Advocate](https://qiskit.org/advocates/). You can find me on the Qiskit Slack Workspace at `@Giri`. 
 
